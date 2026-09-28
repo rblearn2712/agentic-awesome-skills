@@ -1,7 +1,7 @@
+<!-- registry-sync: version=14.6.0; skills=1965; stars=43394; updated_at=2026-07-16T14:29:29+00:00 -->
 > [!IMPORTANT]
 > **Trademark Disclaimer:** This is an independent, community-maintained repository. It is **not affiliated with, sponsored by, endorsed by, or authorized by Google LLC** or any of its subsidiaries. References to "Antigravity", "Google Antigravity", "Gemini", and related product names are used solely to describe compatibility and supported install targets. "ANTIGRAVITY" is a trademark of Google LLC. This repository has received a notice from GitHub Trust & Safety (ref: 6GNG46-31K32, dated 15 July 2026) forwarding a trademark concern from Google LLC. GitHub found no violation of its trademark policy and has taken no action against this repository.
 
-<!-- registry-sync: version=14.6.0; skills=1965; stars=43394; updated_at=2026-07-16T14:29:29+00:00 -->
 [![Agentic Awesome Skills social preview](apps/web-app/public/social-card.png)](https://github.com/sickn33/agentic-awesome-skills)
 
 # 🌌 Agentic Awesome Skills: 1,965+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Autohand Code, Copilot & More
